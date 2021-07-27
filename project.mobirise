@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lyons Assessment Consulting 3.0",
-    "currentPage": "about.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1865,7 +1865,7 @@
     },
     "about.html": {
       "settings": {
-        "title": "About",
+        "title": "about",
         "order": 1,
         "meta_descr": "Meet Susan Lyons and the Lyons Assessment Consulting team."
       },
@@ -3537,7 +3537,7 @@
     },
     "resources.html": {
       "settings": {
-        "title": "Resources",
+        "title": "resources",
         "order": 2,
         "meta_descr": "Download our latest writing and research. "
       },
@@ -5132,7 +5132,7 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Contact",
+        "title": "contact",
         "order": 3,
         "meta_descr": "Interested in collaborating? Get in touch"
       },
