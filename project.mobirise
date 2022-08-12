@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lyons Assessment Consulting 4.0",
-    "currentPage": "resources.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -108,7 +108,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/favicon-128x125-1.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/lac-logo-256x164.png"
       },
       "components": [
         {
@@ -2907,7 +2907,9 @@
       "settings": {
         "title": "Resources",
         "order": 2,
-        "meta_descr": "Download our latest writing and research. "
+        "meta_descr": "Download our latest writing and research. ",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/lac-logo-256x164.png"
       },
       "components": [
         {
@@ -5863,7 +5865,8 @@
       "settings": {
         "title": "Contact",
         "order": 3,
-        "meta_descr": "Interested in collaborating? Get in touch"
+        "meta_descr": "Interested in collaborating? Get in touch",
+        "meta_image": "@PROJECT_PATH@/assets/images/lac-logo-256x164.png"
       },
       "components": [
         {
@@ -7420,7 +7423,8 @@
       "settings": {
         "title": "Our Team",
         "order": 1,
-        "meta_descr": "Meet Susan Lyons and the Lyons Assessment Consulting team."
+        "meta_descr": "Meet Susan Lyons and the Lyons Assessment Consulting team.",
+        "meta_image": "@PROJECT_PATH@/assets/images/lac-logo-256x164.png"
       },
       "components": [
         {
